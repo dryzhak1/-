@@ -1,0 +1,16 @@
+{
+  "name": "enthusiastic-celebration-are-oxxl4",
+  "productName": "enthusiastic-celebration-are-oxxl4",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Denys",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "31.2.1"
+  }
+}
